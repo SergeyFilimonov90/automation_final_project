@@ -1,0 +1,44 @@
+
+-----
+Test: tests/test_purchase.py::test_city_select (call)
+Start time: 2023-04-06 18:20:00.648313
+Start name method: city_select
+
+End time: 2023-04-06 18:20:18.714558
+End name method: city_select
+URL: https://www.citilink.ru/catalog/smartfony/
+
+-----
+
+-----
+Test: tests/test_purchase.py::test_city_select (call)
+Start time: 2023-04-06 18:20:18.714558
+Start name method: smartphone_select
+
+End time: 2023-04-06 18:20:22.680754
+End name method: smartphone_select
+URL: https://www.citilink.ru/order/
+
+-----
+
+-----
+Test: tests/test_purchase.py::test_city_select (call)
+Start time: 2023-04-06 18:20:22.681765
+Start name method: chechout_first_stage
+
+End time: 2023-04-06 18:20:24.036984
+End name method: chechout_first_stage
+URL: https://www.citilink.ru/order/checkout/
+
+-----
+
+-----
+Test: tests/test_purchase.py::test_city_select (call)
+Start time: 2023-04-06 18:20:24.036984
+Start name method: final_checkout_test
+
+End time: 2023-04-06 18:20:24.148403
+End name method: final_checkout_test
+URL: https://www.citilink.ru/order/checkout/
+
+-----

@@ -1,0 +1,28 @@
+Starting testing
+Current url https://www.citilink.ru/
+cliking city select button
+Input password
+Test passed word Москва=Москва
+clicking selected city
+Test passed word Москва=Москва
+Url test passed
+Смартфон Huawei nova Y90 4/128Gb, зеленый
+16 990
+Смартфон Huawei nova Y90 4/128Gb, зеленый
+16 990
+Word value test passed
+Word value test passed
+Url test passed
+Word value test passed
+Word value test passed
+Word value test passed
+Cliking checkout button
+Url test passed
+Смартфон Huawei nova Y90 4/128Gb, зеленый
+16 990
+16 990
+Word value test passed
+Word value test passed
+Word value test passed
+Word value test passed
+Testing completed

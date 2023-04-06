@@ -1,0 +1,4 @@
+Starting testing
+Current url https://www.citilink.ru/
+Clciking city select button
+Testing completed
